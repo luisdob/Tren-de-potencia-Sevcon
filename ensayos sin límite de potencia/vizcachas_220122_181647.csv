@@ -1,0 +1,31 @@
+Time (s),1. Current A(RMS) (1),,Time (s),1. Id A (0.0625),,Time (s),1. Battery Current A (0.0625),,Time (s),1. Target torque % of peak (0.1),,Time (s),1. Velocity RPM (1),,Time (s),1. Torque actual value Nm (0.0625),,Time (s),1. Battery Voltage V (0.0625),,Time (s),1. Heatsink Temperature DegC (1),,Time (s),1. Torque demand value Nm (0.0625),,Time (s),1. Uq V (0.0625),,Time (s),1. Throttle Input Voltage V (0.00390625),,Time (s),1. Ud V (0.0625),,Time (s),1. Target Iq A (0.0625),,Time (s),1. Iq A (0.0625),,
+
+
+<CONTROLLER_CONFIG>
+BorgWarner DVT - Customer Version - Release 2021.10 - 64bit
+Trace start date_time: 220122_181618
+Node: 1
+Login at level 4: Error
+Software Version: Timeout
+Software Checksum: Timeout
+Software Description: Timeout
+Configuration Checksum: Timeout
+
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+Timeout
+<CONTROLLER_CONFIG>
